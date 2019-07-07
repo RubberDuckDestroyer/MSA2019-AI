@@ -1,0 +1,2 @@
+This is the MSA Phase 1 project for AI/ML.
+The screeenshots of the MS Learn platform can be found here and the project can be found at https://ramenrater-ygp9552.notebooks.azure.com/j/notebooks/IntelligentRater.ipynb
